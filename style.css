@@ -1,0 +1,22 @@
+body{
+    background-image: url(bg7.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 760px;
+}
+h1{
+    margin-top: 60px;
+    margin-left: 430px;
+    font-size: 30px;
+    font-style: bold;
+}
+button a{
+    border-radius: none;
+    color: blue;
+}
+#bmw1{
+    margin-left: 600px;
+}
+p{
+    color: white;
+    margin-left: 870px;
+}

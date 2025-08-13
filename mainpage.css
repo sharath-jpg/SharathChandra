@@ -1,0 +1,53 @@
+*{
+ margin: 0px;
+    padding: 0px;
+}
+.obox{
+    border: solid 5px ;
+    height: 550px;
+
+}
+#in1{
+    border: solid 2px hidden ;
+    height: 50px;
+    
+}
+#in2{
+    border: solid  2px;
+    height: 490px;
+}   
+ul li{
+    border: solid 1px;
+    height: 50px;
+    width:100px;
+    float:left;
+    text-align: center;
+    border-radius: 20px;
+
+}
+body{
+    background-image: url(bg5.jpg);
+    background-repeat: no-repeat;
+    background-size: 1570px 560px;
+}
+ul li a{
+    color: rgb(225, 225, 243);
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+ul li:hover{
+    background-color: black;
+
+}
+h1{
+    font-size: 79px;
+    font-weight:inherit;
+    margin-top: 20px;
+
+}
+p{
+    text-align: center;
+    font-size: 40px;
+}
